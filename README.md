@@ -1,3 +1,3 @@
 # Program4
-program_4
+program4
 Hello world!
